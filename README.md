@@ -1,7 +1,7 @@
 
 # Lógica de Programação
 
-Projeto criado no programa DevStart PayLivre. Mensurando o aprendizado no conteúdo, utilizando o interpretador "VisualG".
+Projeto criado no programa DevStart PayLivre. Mensurando o aprendizado, utilizando o interpretador "VisualG".
 
 Obs: Alguns algorítmos foram criados em Python, devido a alguns bugs no "VisualG". 
 
