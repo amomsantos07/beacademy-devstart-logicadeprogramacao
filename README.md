@@ -12,7 +12,7 @@ Obs: Alguns algorítmos foram criados em Python, devido a alguns bugs no "Visual
 
 
 ## 🔗 Links
-[![Aula-4](https://](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/exercicios/Aula4.ALG)
+[![Aula-4](https://)](https](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/exercicios/Aula4.ALG)
 [![Aula-5](https://)](https)
 [![Aula-6](https://)](https)
 [![Aula-7](https://)](https)
