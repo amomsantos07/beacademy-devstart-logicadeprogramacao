@@ -13,12 +13,12 @@ Obs: Alguns algorítmos foram criados em Python, devido a alguns bugs no "Visual
 
 ## 🔗 Links
 [![Aula-4](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula4.ALG)
-[![Aula-5](https://)](https)
-[![Aula-6](https://)](https)
-[![Aula-7](https://)](https)
-[![Aula-8](https://)](https)
-[![Aula-9](https://)](https)
-[![Aula-10](https://)](https)
-[![Aula-11](https://)](https)
-[![Aula-12](https://)](https)
+[![Aula-5](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula05.ALG)
+[![Aula-6](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula06.ALG)
+[![Aula-7](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula07.ALG)
+[![Aula-8](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula08.ALG)
+[![Aula-9](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio-alunos-vetores.ALG)
+[![Aula-10](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio-produtos-vetores.ALG)
+[![Aula-11](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula11.ALG)
+[![Aula-12](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula12.ALG)
 
