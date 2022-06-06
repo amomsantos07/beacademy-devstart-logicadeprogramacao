@@ -12,7 +12,7 @@ Projeto criado no programa DevStart PayLivre. Mensurando o aprendizado, utilizan
 
 
 ## 🔗 Links
-[![Aula-4](https://badge-size.herokuapp.com)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula4.ALG)
+[![Aula-4](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula4.ALG)
 [![Aula-5](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula05_1.ALG)
 [![Aula-6](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula06.ALG)
 [![Aula-7](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula07.ALG)
