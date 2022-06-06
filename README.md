@@ -3,7 +3,7 @@
 
 Projeto criado no programa DevStart PayLivre. Mensurando o aprendizado, utilizando o interpretador "VisualG".
 
-
+Obs: Alguns algorítmos foram criados em Python, devido a alguns bugs no "VisualG". 
 
 
 ## Autores
@@ -12,7 +12,7 @@ Projeto criado no programa DevStart PayLivre. Mensurando o aprendizado, utilizan
 
 
 ## 🔗 Links
-[![Aula-4](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/exercicios/Aula4.ALG)
+[![Aula-4](https://)](https://github.com/amomsantos07/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/Aula4.ALG)
 [![Aula-5](https://)](https)
 [![Aula-6](https://)](https)
 [![Aula-7](https://)](https)
